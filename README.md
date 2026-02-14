@@ -1,8 +1,8 @@
-# Electronic Dice using Arduino UNO🎲
+# Electronic Dice using Arduino UNO 🎲
 
-A digital dice built using Arduino UNO that generates random numbers from 1 to 6 using LEDs and a 7-segment display.
+An Arduino-based digital dice that generates a random number from 1 to 6 on button press and displays the result using LEDs and a 7-segment display along with a buzzer sound effect.
 
-## Components Used
+## 🔧 Components Used
 - Arduino UNO
 - 7-Segment Display
 - LEDs
@@ -11,18 +11,24 @@ A digital dice built using Arduino UNO that generates random numbers from 1 to 6
 - Resistors
 - Breadboard
 
-## Features
-- Generates random number on button press
-- Displays result using LEDs and 7-segment
-- Buzzer sound effect for dice roll
+## ⚙️ Working Principle
+When the push button is pressed, the Arduino generates a pseudo-random number between 1 and 6.  
+The result is displayed using LEDs and a 7-segment display, and a buzzer sound indicates the dice roll.
 
-## Files in this Repository
-- electronic_dice.ino → Arduino source code
-- Electronic_Dice_Project_Report_file.pdf → Full project documentation
-- Electronic dice demo.mp4 → Working demonstration
-- Electronic dice photo.jpg → Project photo
+## ✨ Features
+- Random number generation (1–6)
+- Visual output using LEDs & 7-segment display
+- Audio feedback using buzzer
+- Simple and interactive embedded system project
 
-## Applications
-- Learning Arduino basics
-- Embedded systems practice
+## 📁 Files in this Repository
+- `electronic_dice.ino` → Arduino source code
+- `Electronic_Dice_Project_Report_file.pdf` → Complete project documentation
+- `Electronic dice demo.mp4` → Working demonstration video
+- `Electronic dice photo.jpg` → Project image
+
+## 🎯 Applications
+- Beginner-level Arduino learning
+- Embedded systems fundamentals
+- Digital logic demonstration
 - Educational electronics project
