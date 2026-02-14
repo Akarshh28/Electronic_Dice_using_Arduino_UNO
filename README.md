@@ -1,4 +1,4 @@
-# Electronic Dice using Arduino 🎲
+# Electronic Dice using Arduino UNO🎲
 
 A digital dice built using Arduino UNO that generates random numbers from 1 to 6 using LEDs and a 7-segment display.
 
