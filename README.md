@@ -20,6 +20,7 @@ A digital dice built using Arduino UNO that generates random numbers from 1 to 6
 - electronic_dice.ino → Arduino source code
 - Electronic_Dice_Project_Report_file.pdf → Full project documentation
 - Electronic dice demo.mp4 → Working demonstration
+- Electronic dice photo.jpg → Project photo
 
 ## Applications
 - Learning Arduino basics
